@@ -15,6 +15,16 @@
 
 ## 💼 Work experience
 
+- **Red Hat**: Specialist Solution Architect, September 2019 - Today.
+- **UNIR**: College Professor in University course: Expert in Devops & Cloud course, November 2020 - March 2022.
+- **Red Hat**: Senior Cloud Consultant, July 2014 - September 2019.
+- **EMC (Ampliatel)**: Senior Consultant, Jyly 2011 - July 1014.
+- **Morse (now Logicalis)**: Senior Consultant/Project Leader, May 2006 - July 2011.
+- **IBM (INSA)**: Systems Engineer, August 2004 - May 2006.
+- **Ciencia Exacta Academy**: Differential Geometry private tutor for students of the Physics Degree in the University of Salamanca, and for students in secondary education. 2003 - 2004.
+- **Eniac Academy**: Teaching Information Technology to Public Administration workers, unemployed and private sector workers. 2003 -2004.
+- **Private tutor**: _Scientific Programming in C_ for students of the <a href="https://www.upsa.es/" target="_blank">Pontifical University of Salamanca</a> and _C programming_ for students of the <a href="https://www.uned.es/" target="_blank">UNED</a>. 2001 - 2002.
+
 ## 🏆 Accomplishments
 
 - **Red Hat's Technology Thought Leadership Accelerator (TTLA) graduate**, 2024.
