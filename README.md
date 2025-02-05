@@ -19,7 +19,7 @@
 
 - **RHEL Specialist Solution Architect of the year**, Vienna's Red Hat One 2024. 
 - **Red Hat Giveback Program: Gold, Green, Gray and Blue stars**, 2024.
-- **Red Hat Giveback Program: Greem, Gray and Blue stars**, 2023.
+- **Red Hat Giveback Program: Green, Gray and Blue stars**, 2023.
 - **Red Hat Giveback Program: Gold, Green, Gray and Blue stars**, 2022.
 - **Most valued member of years 2001-2012**, awarded by the Castilla y Leon's Linux User Group (AUGCyL) on 2013.
 - **Palencia's provincial school chess championship**, 1985.
