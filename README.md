@@ -4,8 +4,20 @@
 
 #### Summary
 
-## Education
+## 🎓 Education
 
-## Work experience
+## 💼 Work experience
 
-## Speaker activity
+## 🎤 Speaker activity
+
+## 📜 Publications
+
+## Certifications
+
+## Courses
+
+## 📞 Contact
+
+| **Name**   | José Ángel de Bustos Pérez | 
+| **E-mail**   | <a href="mailto:jadebustos@gmail.com">jadebustos@gmail.com</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/jadebustos/" target="_blank">Visit Page</a> | 
