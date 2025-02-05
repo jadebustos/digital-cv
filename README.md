@@ -26,6 +26,8 @@
 
 ## 🎤 Speaker activity
 
+- [ACME Certificates with FreeIPA: Simplify SSL/TLS Management](https://fosdem.org/2025/schedule/event/fosdem-2025-5667-acme-certificates-with-freeipa-simplify-ssl-tls-management/), Fosdem 2025 at Brussles.
+
 ## 📜 Publications
 
 - [Automatic certificate issuing with IdM and cert-manager operator for OpenShift](https://developers.redhat.com/articles/2024/12/17/automatic-certificate-issuing-idm-and-cert-manager-operator-openshift#), December 2024.
