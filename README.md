@@ -13,13 +13,22 @@
 
 ## 💼 Work experience
 
+## 🏆 Accomplishments
+
 ## 🎤 Speaker activity
 
 ## 📜 Publications
 
+## 📌 Volunteering
+
 ## Certifications
 
 ## Courses
+
+## 💬 Languages
+
+* :es: Native
+* :uk: B1
 
 ## 📞 Contact
 
