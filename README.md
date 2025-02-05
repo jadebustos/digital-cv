@@ -27,8 +27,8 @@
 
 ## 💬 Languages
 
-* :es: Native
-* :uk: B1
+* 🇪🇸 Native
+* 🇬🇧 B1
 
 ## 📞 Contact
 
