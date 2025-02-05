@@ -18,7 +18,7 @@
 - **Red Hat**: Specialist Solution Architect, September 2019 - Today.
 - **UNIR**: College Professor in University course: Expert in Devops & Cloud course, November 2020 - March 2022.
 - **Red Hat**: Senior Cloud Consultant, July 2014 - September 2019.
-- **EMC (Ampliatel)**: Senior Consultant, Jyly 2011 - July 1014.
+- **EMC (Ampliatel)**: Senior Consultant, July 2011 - July 1014.
 - **Morse (now Logicalis)**: Senior Consultant/Project Leader, May 2006 - July 2011.
 - **IBM (INSA)**: Systems Engineer, August 2004 - May 2006.
 - **University of Salamanca**: Instructor in the special course _Herramientas en GNU/Linux para estudiantes universitarios_. 2003, 2007, 2008, 2009 and 2010.
@@ -38,7 +38,7 @@
 
 ## 🎤 Speaker activity
 
-- [ACME Certificates with FreeIPA: Simplify SSL/TLS Management](https://fosdem.org/2025/schedule/event/fosdem-2025-5667-acme-certificates-with-freeipa-simplify-ssl-tls-management/), Fosdem 2025 at Brussles.
+If you are interested in my activities as speaker you can check all of them [here](speaker.md).
 
 ## 📜 Publications
 
