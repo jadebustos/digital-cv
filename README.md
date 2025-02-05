@@ -45,7 +45,9 @@
 ## 💬 Languages
 
 - 🇪🇸 Native
-- 🇬🇧 B2
+- 🇬🇧 B2:
+    - Fourth Course of Official Language School (Salamanca), 2003.
+    - First Certificate in English, 2001.
 
 ## 📞 Contact
 
