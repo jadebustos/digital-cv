@@ -23,6 +23,7 @@
 
 ## 2023
 
+- 🇪🇸 **AIOPs roundtable** I was invited to a roundtable on AIOps by <a href="https://www.unir.net/" target="_blank">UNIR</a> on October the 5th.
 - 🇪🇸 **Red Hat: A Leader in Automation and Distributed Computing** [in person session in the National Reference Center for IT Development and Communications at Madrid on September the 20th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-edustance-red-hat). I talked the audience about how to use the specific RHEL Edge version to deploy and run serverless workloads on the Edge, I had also performed a demo.
 - 🇪🇸 **Nutanix & Red Hat 2.0: Cloud Modernization and Transformation!** [Nutanix's webminar on January the 26th](https://virtualbootcampnutanixredhat.splashthat.com/?utm_medium=email&mkt_tok=MDMxLUdWUS0xMTIAAAGI0y5dxb8QQ3uGxgzydk1wqwWnGMKVdfRA-XumW1iNJb4j3ZD0t5-t1WvfV3KMCIrt010qHMg96YEu5B3q4HA) together with two colleagues from Nutanix we show attendees how powerful is the Nutanix platform to manage cloud workloads and we perform a demo with OpenShift on top of Nutanix Platform.
 
