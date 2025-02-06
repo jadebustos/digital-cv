@@ -6,8 +6,8 @@
 
 ## 2024
 
-- 🇬🇧 **Antivirus and Malware for RHEL** [1st Enterprise Linux User Group at Zurich on December the 4](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1286909cf30&sc_cid=7015Y0000048jK1QAI).
-- 🇬🇧 **ACME certificates management with IDM** [1st Enterprise Linux User Group at Zurich on December the 4](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1286909cf30&sc_cid=7015Y0000048jK1QAI).
+- 🇬🇧 **Antivirus and Malware for RHEL** [1st Enterprise Linux User Group at Zurich on December the 4th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1286909cf30&sc_cid=7015Y0000048jK1QAI).
+- 🇬🇧 **ACME certificates management with IDM** [1st Enterprise Linux User Group at Zurich on December the 4th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1286909cf30&sc_cid=7015Y0000048jK1QAI).
 - 🇬🇧 **RHEL Infrastructure Lifecycle Management** [Netherland's Red Hat Tech Day at Utrecth on June the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1071050abcd#agenda). Together with a Red Hat colleague we talk the audience about how to manage RHEL at scale.
 - 🇬🇧 **RHEL strategy and roadmap** [Netherland's Red Hat Tech Day at Utrecth on June the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1071050abcd#agenda). Together with a Red Hat colleague we talk the audience about the RHEL strategy and roadmap.
 - 🇪🇸 **From Concept to Reality: Developing and Deploying a Generative AI Application** [in person session in the National Reference Center for IT Development and Communications at Madrid on June the 18th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-desarrollando-y-desplegando-una-aplicacion-de-inteligencia-artificial-generativa). Together with two more Red Hat colleagues we explain the audience how to develop and deploy GenAI applications and perform a demo.
@@ -20,6 +20,11 @@
 - 🇬🇧 **Nutanix and Red Hat - CentOS to RHEL** [Nutanix's webminar on February the 29th](https://event.nutanix.com/nutanixandredhat/rh) about migrating CentOS workloads to RHEL in Nutanix platform.
 - 🇪🇸 **Open Source Enterprise Solutions for AI/ML Application Development and Deployment with Intel® and Red Hat** [Red Hat's webminar on February the 8th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1002080abcd#page-table) with a colleague from Intel.
 - 🇬🇧 **Desmitifying AI** at Red Hat One, Vienna January 30th and 31th. Together with a Red Hat's colleague from the BU.
+
+## 2023
+
+- 🇪🇸 **Red Hat: A Leader in Automation and Distributed Computing** [in person session in the National Reference Center for IT Development and Communications at Madrid on September the 20th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-edustance-red-hat). I shown the audience how to use the specific RHEL Edge version to deploy and run serverless workload on the Edge and perform a demo.
+- 🇪🇸 **Nutanix & Red Hat 2.0: Cloud Modernization and Transformation!** [Nutanix's webminar on January the 26th](https://virtualbootcampnutanixredhat.splashthat.com/?utm_medium=email&mkt_tok=MDMxLUdWUS0xMTIAAAGI0y5dxb8QQ3uGxgzydk1wqwWnGMKVdfRA-XumW1iNJb4j3ZD0t5-t1WvfV3KMCIrt010qHMg96YEu5B3q4HA) together with two colleagues from Nutanix we show attendees how powerful is the Nutanix platform to manage cloud workloads and we perform a demo with OpenShift on top of Nutanix Platform.
 
 ## 2022
 
