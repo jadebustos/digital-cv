@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: José Ángel de Bustos Pérez
-logo: imgs/recorte-foto3.jpg
+logo: imgs/recorte-foto3.png
 description: José Ángel's CV
 plugins:
   - jekyll-seo-tag # Add SEO plugin
