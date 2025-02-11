@@ -29,11 +29,13 @@
 
 ## 2022
 
+- 🇪🇸 **Red Hat Enterpise Linux for Edge**, [demo on a Red Hat in-person event on Valencia, July the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x614594abcd&sc_cid=7013a00000317EeAAI#hear-from-the-experts).
+- 🇪🇸 **Migrating from CentOS Linux to Red Hat Enterprise Linux has never been easier or more affordable**, [Red Hat webminar, July the 12th](https://www.redhatiberia.es/MAILINGS/2022/2022_Migraci%C3%B3n_de_CentOS_RHEL/MigracionCentOS.html).
 - 🇪🇸 **Virtual Bootcamps: How to build and operate cloud-native applications with Nutanix Cloud and Red Hat OpenShift**, [demo and presentation on a Nutanix webminar, June the 30th](https://event.nutanix.com/vbootcampnutanixyredhatopenshift?utm_medium=email).
-- 🇪🇸 **Serverless in Edge Computing environments**, [demo on a Red Hat event, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
-- 🇪🇸 **DevSecOps (ACS): Security challenges in modern hybrid cloud environments**, [demo on a Red Hat event, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
+- 🇪🇸 **Serverless in Edge Computing environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
+- 🇪🇸 **DevSecOps (ACS): Security challenges in modern hybrid cloud environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
 - 🇪🇸 **DevSecOps: Design, implement, and run cloud-native applications with complete security**, [demo on a Red Hat webminar, March the 31th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x523584abcd&sc_cid=7013a000002qIAAAA2).
-- 🇪🇸 **Boost your future with Red Hat**, [Red Hat Academy sessions at the University of Salamanca on April](https://www.redhat.com/es/events/red-hat-academy-session-salamanca-mar-2022#agenda).
+- 🇪🇸 **Boost your future with Red Hat**, [Red Hat Academy sessions at the University of Salamanca, April](https://www.redhat.com/es/events/red-hat-academy-session-salamanca-mar-2022#agenda).
 
 ## 2013
 
