@@ -26,6 +26,10 @@
 
 - **IBM's Proventia network intrusion prevention system**.
 
+## 2007
+
+- **Red Hat Certified Engineer official course (RHEL 5)**.
+
 ## 2004
 
 - **Expert in network and internet infrastructures (CISCO'S CCNA 2.0)**, 250-hour course from the National Employment Institute of Spain.
