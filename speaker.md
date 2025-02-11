@@ -75,4 +75,19 @@
 
 ## 2007
 
+## 2004
+
 ## 2003
+
+- 🇪🇸**The scientific computing tool Yacas**, Extraordinary Course on GNU/Linux Tools for University Students of the University of Salamanca, From April 4th to 12th.
+
+## 2002
+
+- 🇪🇸 **Criptography**, 2nd Free Software and GNU/Linux conferences organized by the Salamanca's Linux User Group at the University of Salamanca.
+- 🇪🇸 **Introduction to GNU/Linux administration**, Lecture series on introduction to GNU/Linux and Free Software at the Faculty of Telecommunications of the University of Valladolid.
+- 🇪🇸 **Criptography**, 1st edition of The Free Software conferences organized by eitig at Segovia, July the 17th.
+- 🇪🇸 **Introduction to GNU/Linux administration**, 1st edition of The Free Software Conferences organized by eitig at Segovia, July the 17th.
+
+## 2001
+
+- 🇪🇸 **Criptography**, First Conference on Security in GNU/Linux at the Faculty of Telecommunications of the University of Valladolid, October the 18th.
