@@ -13,12 +13,12 @@
 - 🇪🇸 **From Concept to Reality: Developing and Deploying a Generative AI Application** [in person session in the National Reference Center for IT Development and Communications at Madrid, June the 18th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-desarrollando-y-desplegando-una-aplicacion-de-inteligencia-artificial-generativa).
 - 🇪🇸 **Realizing value from AI/ML. Increasing velocity and consistency through MLOps** [Artificial Intelligence keynote at Red Hat's Bilbao Opentour, June the 11th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012435abcd#speakers).
 - 🇬🇧 **Realizing value from AI/ML. Increasing velocity and consistency through MLOps** [Artificial Intelligence keynote at Red Hat's Lisbon Opentour, May the 23th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011922abcd#speakers).
-- 🇬🇧 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demon at Red Hat's Lisbon Opentour, May the 23th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011922abcd#speakers).
+- 🇬🇧 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Lisbon Opentour, May the 23th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011922abcd#speakers).
 - 🇪🇸 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Madrid Opentour, March the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1006431abcd&sc_cid=7015Y000003smDfQAI#speakers).
 - 🇪🇸 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Barcelona Opentour, March the 12th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd&sc_cid=7015Y000003smDzQAI#speakers).
 - 🇪🇸 **Migration from CentOS Linux to Red Hat Enterprise Linux** Arrow's webminar on March the 7th about migrating CentOS workloads to RHEL.
 - 🇬🇧 **Nutanix and Red Hat - CentOS to RHEL** [Nutanix's webminar, February the 29th](https://event.nutanix.com/nutanixandredhat/rh).
-- 🇪🇸 **Open Source Enterprise Solutions for AI/ML Application Development and Deployment with Intel® and Red Hat** [Red Hat's webminar on February the 8th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1002080abcd#page-table).
+- 🇪🇸 **Open Source Enterprise Solutions for AI/ML Application Development and Deployment with Intel® and Red Hat** [Red Hat's webminar, February the 8th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1002080abcd#page-table).
 - 🇬🇧 **Desmitifying AI** at Red Hat One, Vienna January 30th and 31th. Together with a Red Hat's colleague from the BU.
 
 ## 2023
@@ -34,17 +34,20 @@
 - 🇪🇸 **DevSecOps with ACS**, demo together with a Red Hat colleage on the Red Hat Summit Connect in-person event on Madrid, October the 4th.
 - 🇪🇸 **Red Hat Enterpise Linux for Edge**, [demo on a Red Hat in-person event on Valencia, July the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x614594abcd&sc_cid=7013a00000317EeAAI#hear-from-the-experts).
 - 🇪🇸 **Migrating from CentOS Linux to Red Hat Enterprise Linux has never been easier or more affordable**, [Red Hat webminar, July the 12th](https://www.redhatiberia.es/MAILINGS/2022/2022_Migraci%C3%B3n_de_CentOS_RHEL/MigracionCentOS.html).
-- 🇪🇸 **Virtual Bootcamps: How to build and operate cloud-native applications with Nutanix Cloud and Red Hat OpenShift**, [demo and presentation on a Nutanix webminar, June the 30th](https://event.nutanix.com/vbootcampnutanixyredhatopenshift?utm_medium=email).
+- 🇪🇸 **Virtual Bootcamps: How to build and operate cloud-native applications with Nutanix Cloud and Red Hat OpenShift**, [demo on a Nutanix webminar, June the 30th](https://event.nutanix.com/vbootcampnutanixyredhatopenshift?utm_medium=email).
 - 🇪🇸 **Serverless in Edge Computing environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
 - 🇪🇸 **DevSecOps (ACS): Security challenges in modern hybrid cloud environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
 - 🇪🇸 **DevSecOps: Design, implement, and run cloud-native applications with complete security**, [demo on a Red Hat webminar, March the 31th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x523584abcd&sc_cid=7013a000002qIAAAA2).
 - 🇪🇸 **Boost your future with Red Hat**, [Red Hat Academy sessions at the University of Salamanca, April](https://www.redhat.com/es/events/red-hat-academy-session-salamanca-mar-2022#agenda).
 
-## 2013
-
 ## 2021
 
+- 🇪🇸 **Automatiza que no es poco** [automation Red Hat's webminar, July the 21th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x3890450001#page-table).
+
 ## 2020
+
+- 🇬🇧 **How to build a powerful MLOps platform with Red Hat OpenShift** [Syone's webminar, July the 23th](https://www.syone.com/events/webinars-how-to-build-a-powerful-mlops-platform-with-red-hat-openshift).
+- 🇪🇸 **Modernizing analytical and Big Data workloads in your own Data Center** [session at in-person Red Hat Forum event at Madrid, January the 16th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x67109abcd).
 
 ## 2019
 
