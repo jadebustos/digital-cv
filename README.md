@@ -43,9 +43,11 @@ If you are interested in my activities as speaker you can check all of them [her
 
 ## 📜 Publications
 
-- [Automatic certificate issuing with IdM and cert-manager operator for OpenShift](https://developers.redhat.com/articles/2024/12/17/automatic-certificate-issuing-idm-and-cert-manager-operator-openshift#), December 2024.
-- [Las 5 mejores maneras de implantar MLOps en la empresa](https://www.muycomputerpro.com/2024/01/22/las-5-mejores-maneras-de-implantar-mlops-en-la-empresa), January 2024.
-- [¿Cómo reducir la brecha entre seguridad e innovación?](https://www.computing.es/seguridad/como-reducir-la-brecha-entre-seguridad-e-innovacion/), December 2022.
+- 🇬🇧 [Automatic certificate issuing with IdM and cert-manager operator for OpenShift](https://developers.redhat.com/articles/2024/12/17/automatic-certificate-issuing-idm-and-cert-manager-operator-openshift#), December 2024.
+- 🇪🇸 [5 best ways to implement MLOps in your company](https://www.muycomputerpro.com/2024/01/22/las-5-mejores-maneras-de-implantar-mlops-en-la-empresa), January 2024.
+- 🇪🇸 [How to reduce the gap between security and innovation?](https://www.computing.es/seguridad/como-reducir-la-brecha-entre-seguridad-e-innovacion/), December 2022.
+- 🇪🇸 **All for Science**, article published in the PC-Actual Magazine on December 2003. In this article I analyzed how open source tools can be used in scientific environments focusing mainly on mathematics and engineering solutions for [CAS](https://en.wikipedia.org/wiki/Computer_algebra_system), [Finite Elements](https://en.wikipedia.org/wiki/Finite_element_method) and [Neural Networks](https://en.wikipedia.org/wiki/Neural_network_(machine_learning)).
+- 🇪🇸 **Scientific text edition**, article published in the PC-Actual Magazine on February 2004. In this article I analyzed  how open source tools can be used to create scientific documentation from LaTeX to WYSIWYG editors as TeXmacs or LyX, DocBook SGML/XML or applications to create diagrams as Xfig or Dia.
 
 ## 📌 Volunteering
 
