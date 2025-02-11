@@ -16,7 +16,7 @@
 ## 💼 Work experience
 
 - **Red Hat**: 
-    - Specialist Solution Architect, September 2019 - Today.
+    - Specialist Solution Architect (Presales), September 2019 - Today.
     - Senior Cloud Consultant, July 2014 - September 2019.
 - **UNIR**: College Professor in University course: Expert in Devops & Cloud course, November 2020 - March 2022.
 - **EMC (Ampliatel)**: Senior Consultant, July 2011 - July 2014.
