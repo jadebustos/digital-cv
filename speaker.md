@@ -1,4 +1,4 @@
-# José Ángel' speaker activities
+# José Ángel' events activities
 
 ## 2025
 
@@ -13,7 +13,7 @@
 - 🇪🇸 **Container management using Podman** [laboratory on the in-person event Red Hat Summit Connect at Madrid, October the 10th](https://redhat-iberia.github.io/microlab-podman/microlab-podman/index.html). With some Red Hat colleages we created a custom laboratory where the event attendees could try the technology while we explained them how this technology could help their organization.
 - 🇬🇧 **RHEL Infrastructure Lifecycle Management** [Netherland's Red Hat Tech Day at Utrecth, June the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1071050abcd#agenda).
 - 🇬🇧 **RHEL strategy and roadmap** [Netherland's Red Hat Tech Day at Utrecth, June the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1071050abcd#agenda).
-- 🇪🇸 **From Concept to Reality: Developing and Deploying a Generative AI Application** [in person session in the National Reference Center for IT Development and Communications at Madrid, June the 18th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-desarrollando-y-desplegando-una-aplicacion-de-inteligencia-artificial-generativa).
+- 🇪🇸 **From Concept to Reality: Developing and Deploying a Generative AI Application** [Masterclass in the National Reference Center for IT Development and Communications at Madrid, June the 18th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-desarrollando-y-desplegando-una-aplicacion-de-inteligencia-artificial-generativa).
 - 🇪🇸 **Realizing value from AI/ML. Increasing velocity and consistency through MLOps** [Artificial Intelligence keynote at Red Hat's Bilbao Opentour, June the 11th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012435abcd#speakers).
 - 🇬🇧 **Realizing value from AI/ML. Increasing velocity and consistency through MLOps** [Artificial Intelligence keynote at Red Hat's Lisbon Opentour, May the 23th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011922abcd#speakers).
 - 🇬🇧 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Lisbon Opentour, May the 23th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011922abcd#speakers).
@@ -27,7 +27,7 @@
 ## 2023
 
 - 🇪🇸 **AIOPs roundtable**, I was invited to participate in a roundtable on AIOps by <a href="https://www.unir.net/" target="_blank">UNIR</a> on October the 5th.
-- 🇪🇸 **Red Hat: A Leader in Automation and Distributed Computing**, [in person session in the National Reference Center for IT Development and Communications at Madrid, September the 20th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-edustance-red-hat).
+- 🇪🇸 **Red Hat: A Leader in Automation and Distributed Computing**, [Masterclass in the National Reference Center for IT Development and Communications at Madrid, September the 20th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-edustance-red-hat).
 - 🇪🇸 **Nutanix & Red Hat 2.0: Cloud Modernization and Transformation!**, [Nutanix's webminar, January the 26th](https://virtualbootcampnutanixredhat.splashthat.com/?utm_medium=email&mkt_tok=MDMxLUdWUS0xMTIAAAGI0y5dxb8QQ3uGxgzydk1wqwWnGMKVdfRA-XumW1iNJb4j3ZD0t5-t1WvfV3KMCIrt010qHMg96YEu5B3q4HA).
 
 ## 2022
@@ -42,6 +42,7 @@
 - 🇪🇸 **DevSecOps (ACS): Security challenges in modern hybrid cloud environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
 - 🇪🇸 **DevSecOps: Design, implement, and run cloud-native applications with complete security**, [demo on a Red Hat webminar, March the 31th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x523584abcd&sc_cid=7013a000002qIAAAA2).
 - 🇪🇸 **Boost your future with Red Hat**, [Red Hat Academy sessions at the University of Salamanca, April](https://www.redhat.com/es/events/red-hat-academy-session-salamanca-mar-2022#agenda).
+- 🇪🇸 **How Open Source and automation are transforming IT: From the Data Center to the Cloud and the Edge!**, [Masterclass in the National Reference Center for IT Development and Communications at Madrid, January the 24th](https://cftic.centrosdeformacion.empleo.madrid.org/es/como-el-open-source-y-la-automatizacion-estan-transformado-it).
 
 ## 2021
 

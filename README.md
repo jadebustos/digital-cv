@@ -37,9 +37,9 @@
 - **Most valued member of years 2001-2012**, awarded by the Castilla y Leon's Linux User Group (AUGCyL) on 2013.
 - **Palencia's provincial school chess championship**, 1985.
 
-## 🎤 Speaker activity
+## 🎤 Events activity
 
-If you are interested in my activities as speaker you can check all of them [here](speaker.md).
+If you are interested in my activities in events you can check all of them [here](speaker.md).
 
 ## 📜 Publications
 
