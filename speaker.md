@@ -54,13 +54,14 @@
 
 - 🇬🇧 **How Red Hat OCP can be used to run Machine Learning and other Scientific workloads** [laboratory on the Red Hat Tech Exchange at Vienna, September](https://github.com/jadebustos/ocp-science/tree/master/hands-on-lab-script).
 - 🇬🇧 **RHEL roundtable** on the Red Hat Tech Exchange at Vienna, September. I was invited to participate to share my experiences with the challeges we face with customers and how we can solve them with RHEL.
-- 🇬🇧 **How Software Defined Storage can help to solve retail industry challenges**, Red Hat Summit at Boston, May. Together with some Red Hat colleages we showed the audience how we implemented an active-active and multisite Ceph cluster for one of out customers to solve the challenge customer had storing documents under high workloads.
+- 🇬🇧 **How Software Defined Storage can help to solve retail industry challenges**, on the Red Hat Summit at Boston, May. Together with some Red Hat colleages we showed the audience how we implemented an active-active and multisite Ceph cluster for one of out customers to solve the challenge customer had storing documents under high workloads.
 
 ## 2018
 
-- 🇪🇸 **Red Hat Ceph Storage Fix & Break**, competion on the in-person Red Hat forum event at Madrid, September. I designed and deployed a demo where a R application used data from Ceph which was broken and participants had to fix. I was explaining them the challenge, guide them and explain the advantages of Ceph. There was a reward for the three fastest.
+- 🇪🇸 **Red Hat Ceph Storage Break & Fix**, competion on the in-person Red Hat forum event at Madrid, September. I designed and deployed a demo where a web R application, created for the demo, used data from Ceph which was broken and participants had to fix. I was explaining them the challenge, guide them and explain the advantages of Ceph. There was a reward for the three fastest.
 - 🇬🇧 **Openstack Security: applying security standards (CIS)**, on the Red Hat Tech Exchange at Prague, September. I showed audience  the benefits of applying the CIS standard to Openstack and how I successfully implemented it in one of Red Hat's Telco customers.
 - 🇬🇧 **NFV roundtable** on the Red Hat Tech Exchange at Prague, September. I was invited to participate to share my experience during my engagement with one Red Hat's Telco customer.
+- 🇪🇸 **Your cloud, your rules**, [masterclass at University of Valencia, April the 11th](https://www.uv.es/congressosdi/masterclass18/).
 
 ## 2010
 
