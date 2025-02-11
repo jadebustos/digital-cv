@@ -2,7 +2,7 @@
 
 ## 2025
 
-- 🇬🇧 **ACME Certificates with FreeIPA: Simplify SSL/TLS Management** [Fosdem 2025 at Brussles, February the 3rd](https://fosdem.org/2025/schedule/event/fosdem-2025-5667-acme-certificates-with-freeipa-simplify-ssl-tls-management/).
+- 🇬🇧 **ACME Certificates with FreeIPA: Simplify SSL/TLS Management** [Fosdem 2025 at Brussles, February the 2nd](https://fosdem.org/2025/schedule/event/fosdem-2025-5667-acme-certificates-with-freeipa-simplify-ssl-tls-management/).
 
 ## 2024
 
