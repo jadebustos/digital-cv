@@ -24,20 +24,20 @@
 
 ## 2008
 
-- **IBM's Proventia Network Intrusion Prevention System**.
+- **IBM's Proventia network intrusion prevention system**.
 
 ## 2004
 
-- **Expert in Network and Internet Infrastructures (CISCO'S CCNA 2.0)**, 250-hour course from the National Employment Institute of Spain.
+- **Expert in network and internet infrastructures (CISCO'S CCNA 2.0)**, 250-hour course from the National Employment Institute of Spain.
 
 ## 2003
 
-- **Application Programmer for Internet/Intranet/Extranet Networks (Java)**, 359-hour course from the European Social Fund program.
-- **Internet/Intranet/Extranet Server Administrator (Red Hat Linux 8.0 and Windows 2000)**, 409-hour course from the European Social Fund program.
+- **Application programmer for Internet/Intranet/Extranet networks (Java)**, 359-hour course from the European Social Fund program.
+- **Internet/Intranet/Extranet server administrator (Red Hat Linux 8.0 and Windows 2000)**, 409-hour course from the European Social Fund program.
 
 ## 1999
 
-- **Advanced Programming with Visual C++**, 40-hour course taught by the University of Salamanca.
+- **Advanced programming with Visual C++**, 40-hour course taught by the University of Salamanca.
 - **UNIX system administration (HP-UX)**, 30-hour course taught by the University of Salamanca. 
 
 ## 1998
