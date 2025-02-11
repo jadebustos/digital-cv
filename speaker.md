@@ -79,7 +79,7 @@
 
 ## 2003
 
-- 🇪🇸**The scientific computing tool Yacas**, Extraordinary Course on GNU/Linux Tools for University Students of the University of Salamanca, From April 4th to 12th.
+- 🇪🇸 **The scientific computing tool Yacas**, Extraordinary Course on GNU/Linux Tools for University Students of the University of Salamanca, from April 4th to 12th.
 
 ## 2002
 
