@@ -7,7 +7,7 @@
 ## 2024
 
 - 🇬🇧 **Antivirus and Malware for RHEL** [1st Enterprise Linux User Group at Zurich, December the 4th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1286909cf30&sc_cid=7015Y0000048jK1QAI).
-- 🇬🇧 **ACME certificates management with IDM** [1st Enterprise Linux User Group at Zurich, December the 4th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1286909cf30&sc_cid=7015Y0000048jK1QAI).
+- 🇬🇧 **ACME certificates management with IdM** [1st Enterprise Linux User Group at Zurich, December the 4th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1286909cf30&sc_cid=7015Y0000048jK1QAI).
 - 🇪🇸 **Bootable containers laboratory** [laboratory on the in-person event Red Hat Summit Connect at Madrid, October the 10th](https://redhat-iberia.github.io/microlab-image_mode/image-mode/index.html). With some Red Hat colleages we created a custom laboratory where the event attendees could try the technology while we explained them how this technology could help their organization.
 - 🇪🇸 **Compliance with OpenSCAP laboratory** [laboratory on the in-person event Red Hat Summit Connect at Madrid, October the 10th](https://redhat-iberia.github.io/microlab-openscap/openscap/index.html). With some Red Hat colleages we created a custom laboratory where the event attendees could try the technology while we explained them how this technology could help their organization.
 - 🇪🇸 **Container management using Podman** [laboratory on the in-person event Red Hat Summit Connect at Madrid, October the 10th](https://redhat-iberia.github.io/microlab-podman/microlab-podman/index.html). With some Red Hat colleages we created a custom laboratory where the event attendees could try the technology while we explained them how this technology could help their organization.
@@ -65,7 +65,7 @@
 - 🇪🇸 **Red Hat Ceph Storage Break & Fix**, competion on the in-person Red Hat forum event at Madrid, September. I designed and deployed a demo where a web R application, created for the demo, used data from Ceph which was broken and participants had to fix. I was explaining them the challenge, guide them and explain the advantages of Ceph. There was a reward for the three fastest.
 - 🇬🇧 **Openstack Security: applying security standards (CIS)**, on the Red Hat Tech Exchange at Prague, September. I showed audience  the benefits of applying the CIS standard to Openstack and how I successfully implemented it in one of Red Hat's Telco customers.
 - 🇬🇧 **NFV roundtable** on the Red Hat Tech Exchange at Prague, September. I was invited to participate to share my experience during my engagement with one Red Hat's Telco customer.
-- 🇪🇸 **Your cloud, your rules**, [masterclass at University of Valencia, April the 11th](https://www.uv.es/congressosdi/masterclass18/).
+- 🇪🇸 **Your cloud, your rules**, [Masterclass at University of Valencia, April the 11th](https://www.uv.es/congressosdi/masterclass18/).
 
 ## 2010
 
