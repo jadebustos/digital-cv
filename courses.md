@@ -46,13 +46,13 @@
 
 ## 1999
 
-- **Advanced programming with Visual C++**, 40-hour course taught by the University of Salamanca.
-- **UNIX system administration (HP-UX)**, 30-hour course taught by the University of Salamanca. 
+- **Advanced programming with Visual C++**, 40-hour course by the University of Salamanca.
+- **UNIX system administration (HP-UX)**, 30-hour course by the University of Salamanca. 
 
 ## 1998
 
-- **Programming on Visual Basic 4.0**, 30-hour course taught by the University of Salamanca. 
+- **Programming on Visual Basic 4.0**, 30-hour course by the University of Salamanca. 
 
 ## 1997
 
-- **Introduction to the UNIX operating system (HP-UX)**, 15-hour course taught by the University of Salamanca. 
+- **Introduction to the UNIX operating system (HP-UX)**, 15-hour course by the University of Salamanca. 
