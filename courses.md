@@ -22,6 +22,11 @@
 - **Statistical Inference**, offered by the Johns Hopkins Bloomberg School of Public Health [through Coursera](https://coursera.org/verify/J5E2MZKB3G).
 - **Cryptography I**, offered by the University of Stanford through Coursera. 
 
+## 2010
+
+- **Statistics in Secondary and High School with R**, 110-hour course offered by the [Sociedad Andaluza de Educación Matemática Thales (Andalusian Society of Mathematical Education Thales)](https://thales.cica.es/).
+- **Synthetic Geometry**, 140-hour course offered by the [Sociedad Andaluza de Educación Matemática Thales (Andalusian Society of Mathematical Education Thales)](https://thales.cica.es/).
+
 ## 2008
 
 - **IBM's Proventia network intrusion prevention system**.
