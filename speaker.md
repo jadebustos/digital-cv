@@ -1,5 +1,7 @@
 # José Ángel' events activities
 
+These are the events in which I have participated as a speaker, those which I remember and I have been able to track.
+
 ## 2025
 
 - 🇪🇸 **The role of the Solution Architect in the AI era**, I was invited to participate in a roundtable about <a href="https://www.unir.net/evento/openclass/rol-arquitecto-soluciones-ia/?utm_source=ponente&utm_medium=evento&utm_content=post&utm_campaign=ponenteunireu_espostopenclass_arquitecturas_oc_joseangel_evento" target="_blank">the role of the Solution Architect in the AI era</a> by <a href="https://www.unir.net/" target="_blank">UNIR</a> on March the 18th.
@@ -41,7 +43,7 @@
 - 🇪🇸 **Virtual Bootcamps: How to build and operate cloud-native applications with Nutanix Cloud and Red Hat OpenShift**, [demo on a Nutanix webminar, June the 30th](https://event.nutanix.com/vbootcampnutanixyredhatopenshift?utm_medium=email).
 - 🇪🇸 **Serverless in Edge Computing environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
 - 🇪🇸 **DevSecOps (ACS): Security challenges in modern hybrid cloud environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
-- 🇪🇸 **DevSecOps: Design, implement, and run cloud-native applications with complete security**, [demo on a Red Hat webminar, March the 31th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x523584abcd&sc_cid=7013a000002qIAAAA2).
+- 🇪🇸 **DevSecOps (ACS): Design, implement, and run cloud-native applications with complete security**, [demo on a Red Hat webminar, March the 31th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x523584abcd&sc_cid=7013a000002qIAAAA2).
 - 🇪🇸 **Boost your future with Red Hat**, [Red Hat Academy sessions at the University of Salamanca, April](https://www.redhat.com/es/events/red-hat-academy-session-salamanca-mar-2022#agenda).
 - 🇪🇸 **How Open Source and automation are transforming IT: From the Data Center to the Cloud and the Edge!**, [Masterclass in the National Reference Center for IT Development and Communications at Madrid, January the 24th](https://cftic.centrosdeformacion.empleo.madrid.org/es/como-el-open-source-y-la-automatizacion-estan-transformado-it).
 
