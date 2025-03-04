@@ -2,6 +2,7 @@
 
 ## 2025
 
+- 🇪🇸 **The role of the Solution Architect in the AI era**, I was invited to participate in a roundtable about <a href="https://www.unir.net/evento/openclass/rol-arquitecto-soluciones-ia/?utm_source=ponente&utm_medium=evento&utm_content=post&utm_campaign=ponenteunireu_espostopenclass_arquitecturas_oc_joseangel_evento" target="_blank">the role of the Solution Architect in the AI era</a> by <a href="https://www.unir.net/" target="_blank">UNIR</a> on March the 18th.
 - 🇬🇧 **ACME Certificates with FreeIPA: Simplify SSL/TLS Management** [Fosdem 2025 at Brussles, February the 2nd](https://fosdem.org/2025/schedule/event/fosdem-2025-5667-acme-certificates-with-freeipa-simplify-ssl-tls-management/).
 
 ## 2024
