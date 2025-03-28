@@ -9,7 +9,7 @@ Legend:
 
 ## 2025
 
-- 🇬🇧,👪 **Innovate together: Solving IT challenges on Lisbon** <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1367735abcd&sc_cid=RHCTE1250000441293">url</a>
+- 🇬🇧,👪 **From the Edge to the Datacenter, enhance your security at scale with OpenSCAP and Satellite + Insights** <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1367735abcd&sc_cid=RHCTE1250000441293">Innovate together: Solving IT challenges on Lisbon, April the 10th.</a> Demo about managing RHEL security with Red Hat Satellite and Red Hat Insights.
 - 🇪🇸,👪 **The role of the Solution Architect in the AI era**, I was invited to participate in a openclass about <a href="https://www.unir.net/evento/openclass/rol-arquitecto-soluciones-ia/?utm_source=ponente&utm_medium=evento&utm_content=post&utm_campaign=ponenteunireu_espostopenclass_arquitecturas_oc_joseangel_evento" target="_blank">the role of the Solution Architect in the AI era</a> by <a href="https://www.unir.net/" target="_blank">UNIR</a> on March the 18th.
 - 🇬🇧,👪 **ACME Certificates with FreeIPA: Simplify SSL/TLS Management** [Fosdem 2025 at Brussles, February the 2nd](https://fosdem.org/2025/schedule/event/fosdem-2025-5667-acme-certificates-with-freeipa-simplify-ssl-tls-management/).
 
@@ -70,7 +70,7 @@ Legend:
 
 ## 2018
 
-- 🇪🇸 **Red Hat Ceph Storage Break & Fix**, competion on the in-person Red Hat forum event at Madrid, September. I designed, coded and deployed a demo where a web R application, created for the demo, used data from Ceph which was broken and participants had to fix it. I was explaining them the challenge, guided them and explained to them the advantages of Ceph. There was a reward for the three fastest ones.
+- 🇪🇸 **Red Hat Ceph Storage Break & Fix**, competion on the in-person Red Hat forum event at Madrid, September. I designed, coded and deployed a demo where a web R application, which used data from Ceph storage was broken, participants had to fix it. I was explaining them the challenge, guided them and explained to them the advantages of Ceph. There was a reward for the three fastest ones.
 - 🇬🇧 **Openstack Security: applying security standards (CIS)**, on the Red Hat Tech Exchange at Prague, September. I showed audience  the benefits of applying the CIS standard to Openstack and how I successfully implemented it in one of Red Hat's Telco customers.
 - 🇬🇧,👪 **NFV roundtable** on the Red Hat Tech Exchange at Prague, September. I was invited to participate to share my experience during my engagement with one Red Hat's Telco customer.
 - 🇪🇸,👪 **Your cloud, your rules**, [Masterclass at University of Valencia, April the 11th](https://www.uv.es/congressosdi/masterclass18/).
