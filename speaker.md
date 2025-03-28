@@ -5,32 +5,32 @@ These are the events in which I have participated as a speaker, those which I re
 Legend:
 
 * A flag such 🇬🇧 or 🇪🇸 indicates the language.
-* :family: indicates that the session was conducted by myself and a colleague.
+* 👪 indicates that the session was conducted by myself and one or more co-speakers.
 
 ## 2025
 
-- 🇬🇧 **Innovate together: Solving IT challenges on Lisbon** <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1367735abcd&sc_cid=RHCTE1250000441293">url</a>
-- 🇪🇸 **The role of the Solution Architect in the AI era**, I was invited to participate in a openclass about <a href="https://www.unir.net/evento/openclass/rol-arquitecto-soluciones-ia/?utm_source=ponente&utm_medium=evento&utm_content=post&utm_campaign=ponenteunireu_espostopenclass_arquitecturas_oc_joseangel_evento" target="_blank">the role of the Solution Architect in the AI era</a> by <a href="https://www.unir.net/" target="_blank">UNIR</a> on March the 18th.
-- 🇬🇧 **ACME Certificates with FreeIPA: Simplify SSL/TLS Management** [Fosdem 2025 at Brussles, February the 2nd](https://fosdem.org/2025/schedule/event/fosdem-2025-5667-acme-certificates-with-freeipa-simplify-ssl-tls-management/).
+- 🇬🇧,👪 **Innovate together: Solving IT challenges on Lisbon** <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1367735abcd&sc_cid=RHCTE1250000441293">url</a>
+- 🇪🇸,👪 **The role of the Solution Architect in the AI era**, I was invited to participate in a openclass about <a href="https://www.unir.net/evento/openclass/rol-arquitecto-soluciones-ia/?utm_source=ponente&utm_medium=evento&utm_content=post&utm_campaign=ponenteunireu_espostopenclass_arquitecturas_oc_joseangel_evento" target="_blank">the role of the Solution Architect in the AI era</a> by <a href="https://www.unir.net/" target="_blank">UNIR</a> on March the 18th.
+- 🇬🇧,👪 **ACME Certificates with FreeIPA: Simplify SSL/TLS Management** [Fosdem 2025 at Brussles, February the 2nd](https://fosdem.org/2025/schedule/event/fosdem-2025-5667-acme-certificates-with-freeipa-simplify-ssl-tls-management/).
 
 ## 2024
 
 - 🇬🇧 **Antivirus and Malware for RHEL** [1st Enterprise Linux User Group at Zurich, December the 4th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1286909cf30&sc_cid=7015Y0000048jK1QAI).
 - 🇬🇧 **ACME certificates management with IdM** [1st Enterprise Linux User Group at Zurich, December the 4th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1286909cf30&sc_cid=7015Y0000048jK1QAI).
-- 🇪🇸 **Bootable containers laboratory** [laboratory on the in-person event Red Hat Summit Connect at Madrid, October the 10th](https://redhat-iberia.github.io/microlab-image_mode/image-mode/index.html). With some Red Hat colleages we created a custom laboratory where the event attendees could try the technology while we explained them how this technology could help their organization.
-- 🇪🇸 **Compliance with OpenSCAP laboratory** [laboratory on the in-person event Red Hat Summit Connect at Madrid, October the 10th](https://redhat-iberia.github.io/microlab-openscap/openscap/index.html). With some Red Hat colleages we created a custom laboratory where the event attendees could try the technology while we explained them how this technology could help their organization.
-- 🇬🇧 **RHEL Infrastructure Lifecycle Management** [Netherland's Red Hat Tech Day at Utrecth, June the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1071050abcd#agenda).
-- 🇬🇧 **RHEL strategy and roadmap** [Netherland's Red Hat Tech Day at Utrecth, June the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1071050abcd#agenda).
-- 🇪🇸 **From Concept to Reality: Developing and Deploying a Generative AI Application** [Masterclass in the National Reference Center for IT Development and Communications at Madrid, June the 18th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-desarrollando-y-desplegando-una-aplicacion-de-inteligencia-artificial-generativa).
+- 🇪🇸,👪 **Bootable containers laboratory** [laboratory on the in-person event Red Hat Summit Connect at Madrid, October the 10th](https://redhat-iberia.github.io/microlab-image_mode/image-mode/index.html). We created a custom laboratory where the event attendees could try the technology while we explained them how this technology could help their organization.
+- 🇪🇸,👪 **Compliance with OpenSCAP laboratory** [laboratory on the in-person event Red Hat Summit Connect at Madrid, October the 10th](https://redhat-iberia.github.io/microlab-openscap/openscap/index.html). With some Red Hat colleages we created a custom laboratory where the event attendees could try the technology while we explained them how this technology could help their organization.
+- 🇬🇧,👪 **RHEL Infrastructure Lifecycle Management** [Netherland's Red Hat Tech Day at Utrecth, June the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1071050abcd#agenda).
+- 🇬🇧,👪 **RHEL strategy and roadmap** [Netherland's Red Hat Tech Day at Utrecth, June the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1071050abcd#agenda).
+- 🇪🇸,👪 **From Concept to Reality: Developing and Deploying a Generative AI Application** [Masterclass in the National Reference Center for IT Development and Communications at Madrid, June the 18th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-desarrollando-y-desplegando-una-aplicacion-de-inteligencia-artificial-generativa).
 - 🇪🇸 **Realizing value from AI/ML. Increasing velocity and consistency through MLOps** [Artificial Intelligence keynote at Red Hat's Bilbao Opentour, June the 11th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1012435abcd#speakers).
 - 🇬🇧 **Realizing value from AI/ML. Increasing velocity and consistency through MLOps** [Artificial Intelligence keynote at Red Hat's Lisbon Opentour, May the 23th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011922abcd#speakers).
-- 🇬🇧 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Lisbon Opentour, May the 23th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011922abcd#speakers).
-- 🇪🇸 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Madrid Opentour, March the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1006431abcd&sc_cid=7015Y000003smDfQAI#speakers).
-- 🇪🇸 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Barcelona Opentour, March the 12th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd&sc_cid=7015Y000003smDzQAI#speakers).
+- 🇬🇧,👪 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Lisbon Opentour, May the 23th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011922abcd#speakers).
+- 🇪🇸,👪 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Madrid Opentour, March the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1006431abcd&sc_cid=7015Y000003smDfQAI#speakers).
+- 🇪🇸,👪 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Barcelona Opentour, March the 12th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd&sc_cid=7015Y000003smDzQAI#speakers).
 - 🇪🇸 **Migration from CentOS Linux to Red Hat Enterprise Linux** Arrow's webminar on March the 7th about migrating CentOS workloads to RHEL.
 - 🇬🇧 **Nutanix and Red Hat - CentOS to RHEL** [Nutanix's webminar, February the 29th](https://event.nutanix.com/nutanixandredhat/rh).
-- 🇪🇸 **Open Source Enterprise Solutions for AI/ML Application Development and Deployment with Intel® and Red Hat** [Red Hat's webminar, February the 8th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1002080abcd#page-table).
-- 🇬🇧 **Desmitifying AI** at Red Hat One, Vienna January 30th and 31th. Together with a Red Hat's colleague from the BU.
+- 🇪🇸,👪 **Open Source Enterprise Solutions for AI/ML Application Development and Deployment with Intel® and Red Hat** [Red Hat's webminar, February the 8th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1002080abcd#page-table).
+- 🇬🇧,👪 **Desmitifying AI** at Red Hat One, Vienna January 30th and 31th. Together with a Red Hat's colleague from the BU.
 
 ## 2023
 
