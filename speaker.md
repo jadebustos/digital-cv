@@ -34,46 +34,46 @@ Legend:
 
 ## 2023
 
-- 🇪🇸 **AIOPs openclass**, I was invited to participate in an openclass on AIOps by <a href="https://www.unir.net/" target="_blank">UNIR</a> on October the 5th.
-- 🇪🇸 **Red Hat: A Leader in Automation and Distributed Computing**, [Masterclass in the National Reference Center for IT Development and Communications at Madrid, September the 20th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-edustance-red-hat).
+- 🇪🇸,👪 **AIOPs openclass**, I was invited to participate in an openclass on AIOps by <a href="https://www.unir.net/" target="_blank">UNIR</a> on October the 5th.
+- 🇪🇸,👪 **Red Hat: A Leader in Automation and Distributed Computing**, [Masterclass in the National Reference Center for IT Development and Communications at Madrid, September the 20th](https://cftic.centrosdeformacion.empleo.madrid.org/masterclass-edustance-red-hat).
 - 🇪🇸 **Nutanix & Red Hat 2.0: Cloud Modernization and Transformation!**, [Nutanix's webminar, January the 26th](https://virtualbootcampnutanixredhat.splashthat.com/?utm_medium=email&mkt_tok=MDMxLUdWUS0xMTIAAAGI0y5dxb8QQ3uGxgzydk1wqwWnGMKVdfRA-XumW1iNJb4j3ZD0t5-t1WvfV3KMCIrt010qHMg96YEu5B3q4HA).
 
 ## 2022
 
-- 🇪🇸 **Automation at the Edge**, [demo on a Red Hat in-person event on Madrid, November the 30th](https://www.redhatiberia.es/MAILINGS/2022/AUTOMATION_EVERYWHERE/EVERYWHERE.html)
-- 🇪🇸 **Edge computing with RHEL**, demo together with a Red Hat colleage on the Red Hat Summit Connect in-person event on Madrid, October the 4th.
-- 🇪🇸 **DevSecOps with ACS**, demo together with a Red Hat colleage on the Red Hat Summit Connect in-person event on Madrid, October the 4th.
+- 🇪🇸,👪 **Automation at the Edge**, [demo on a Red Hat in-person event on Madrid, November the 30th](https://www.redhatiberia.es/MAILINGS/2022/AUTOMATION_EVERYWHERE/EVERYWHERE.html)
+- 🇪🇸,👪 **Edge computing with RHEL**, demo together with a Red Hat colleage on the Red Hat Summit Connect in-person event on Madrid, October the 4th.
+- 🇪🇸,👪 **DevSecOps with ACS**, demo together with a Red Hat colleage on the Red Hat Summit Connect in-person event on Madrid, October the 4th.
 - 🇪🇸 **Red Hat Enterpise Linux for Edge**, [demo on a Red Hat in-person event on Valencia, July the 20th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x614594abcd&sc_cid=7013a00000317EeAAI#hear-from-the-experts).
 - 🇪🇸 **Migrating from CentOS Linux to Red Hat Enterprise Linux has never been easier or more affordable**, [Red Hat webminar, July the 12th](https://www.redhatiberia.es/MAILINGS/2022/2022_Migraci%C3%B3n_de_CentOS_RHEL/MigracionCentOS.html).
-- 🇪🇸 **Virtual Bootcamps: How to build and operate cloud-native applications with Nutanix Cloud and Red Hat OpenShift**, [demo on a Nutanix webminar, June the 30th](https://event.nutanix.com/vbootcampnutanixyredhatopenshift?utm_medium=email).
-- 🇪🇸 **Serverless in Edge Computing environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
-- 🇪🇸 **DevSecOps (ACS): Security challenges in modern hybrid cloud environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
-- 🇪🇸 **DevSecOps (ACS): Design, implement, and run cloud-native applications with complete security**, [demo on a Red Hat webminar, March the 31th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x523584abcd&sc_cid=7013a000002qIAAAA2).
-- 🇪🇸 **Boost your future with Red Hat**, [Red Hat Academy sessions at the University of Salamanca, April](https://www.redhat.com/es/events/red-hat-academy-session-salamanca-mar-2022#agenda).
-- 🇪🇸 **How Open Source and automation are transforming IT: From the Data Center to the Cloud and the Edge!**, [Masterclass in the National Reference Center for IT Development and Communications at Madrid, January the 24th](https://cftic.centrosdeformacion.empleo.madrid.org/es/como-el-open-source-y-la-automatizacion-estan-transformado-it).
+- 🇪🇸,👪 **Virtual Bootcamps: How to build and operate cloud-native applications with Nutanix Cloud and Red Hat OpenShift**, [demo on a Nutanix webminar, June the 30th](https://event.nutanix.com/vbootcampnutanixyredhatopenshift?utm_medium=email).
+- 🇪🇸,👪 **Serverless in Edge Computing environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
+- 🇪🇸,👪 **DevSecOps (ACS): Security challenges in modern hybrid cloud environments**, [demo on a Red Hat event on Madrid, June the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x623068abcd).
+- 🇪🇸,👪 **DevSecOps (ACS): Design, implement, and run cloud-native applications with complete security**, [demo on a Red Hat webminar, March the 31th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x523584abcd&sc_cid=7013a000002qIAAAA2).
+- 🇪🇸,👪 **Boost your future with Red Hat**, [Red Hat Academy sessions at the University of Salamanca, April](https://www.redhat.com/es/events/red-hat-academy-session-salamanca-mar-2022#agenda).
+- 🇪🇸,👪 **How Open Source and automation are transforming IT: From the Data Center to the Cloud and the Edge!**, [Masterclass in the National Reference Center for IT Development and Communications at Madrid, January the 24th](https://cftic.centrosdeformacion.empleo.madrid.org/es/como-el-open-source-y-la-automatizacion-estan-transformado-it).
 
 ## 2021
 
-- 🇪🇸 **Automatiza que no es poco**, [automation Red Hat's webminar, July the 21th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x3890450001#page-table).
+- 🇪🇸,👪 **Automatiza que no es poco**, [automation Red Hat's webminar, July the 21th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x3890450001#page-table).
 
 ## 2020
 
 - 🇬🇧 **How to build a powerful MLOps platform with Red Hat OpenShift**, [Syone's webminar, July the 23th](https://www.syone.com/events/webinars-how-to-build-a-powerful-mlops-platform-with-red-hat-openshift).
-- 🇪🇸 **Modernizing Big Data workloads in your own Data Center**, session at in-person Arrow's TechSummit event Divergente at Madrid, March. Together with a Red Hat colleage we were showing the audience how Red Hat Ceph Storage can be used as a backend for Hadoop using Hadoop S3A.
-- 🇪🇸 **Modernizing analytical and Big Data workloads in your own Data Center**, [session at in-person Red Hat Forum event at Madrid, January the 16th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x67109abcd). Together with a Red Hat colleage we were showing the audience how Red Hat Ceph Storage can be used as a backend for Hadoop using Hadoop S3A.
+- 🇪🇸,👪 **Modernizing Big Data workloads in your own Data Center**, session at in-person Arrow's TechSummit event Divergente at Madrid, March. We presented to the audience how Red Hat Ceph Storage can be used as a backend for Hadoop using Hadoop S3A.
+- 🇪🇸,👪 **Modernizing analytical and Big Data workloads in your own Data Center**, [session at in-person Red Hat Forum event at Madrid, January the 16th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x67109abcd). We presented to the audience how Red Hat Ceph Storage can be used as a backend for Hadoop using Hadoop S3A.
 
 ## 2019
 
-- 🇬🇧 **How Red Hat OCP can be used to run Machine Learning and other Scientific workloads** [laboratory on the Red Hat Tech Exchange at Vienna, September](https://github.com/jadebustos/ocp-science/tree/master/hands-on-lab-script). Attendees learnt how to deploy jupyter notebooks (on bare OCP without OpenDataHub), R shiny applications and how to use OCP to run computationally intensive applications (a multithreaded C application to get Pi digits according to user input using extended arithmetic libraries).
-- 🇬🇧 **RHEL roundtable** on the Red Hat Tech Exchange at Vienna, September. I was invited to participate to share my experiences with the challeges we face with customers and how we can solve them with RHEL.
-- 🇬🇧 **How Software Defined Storage can help to solve retail industry challenges**, on the Red Hat Summit at Boston, May. Together with some Red Hat colleages we showed the audience how we implemented an active-active and multisite Ceph cluster for one of out customers to solve the challenge customer had storing documents under high workloads.
+- 🇬🇧,👪 **How Red Hat OCP can be used to run Machine Learning and other Scientific workloads** [laboratory on the Red Hat Tech Exchange at Vienna, September](https://github.com/jadebustos/ocp-science/tree/master/hands-on-lab-script). Attendees learnt how to deploy jupyter notebooks (on bare OCP without OpenDataHub), R shiny applications and how to use OCP to run computationally intensive applications (a multithreaded C application to get Pi digits according to user input using extended arithmetic libraries).
+- 🇬🇧,👪 **RHEL roundtable** on the Red Hat Tech Exchange at Vienna, September. I was invited to participate to share my experiences with the challeges we face with customers and how we can solve them with RHEL.
+- 🇬🇧,👪 **How Software Defined Storage can help to solve retail industry challenges**, on the Red Hat Summit at Boston, May. Together with some Red Hat colleages we showed the audience how we implemented an active-active and multisite Ceph cluster for one of out customers to solve the challenge customer had storing documents under high workloads.
 
 ## 2018
 
 - 🇪🇸 **Red Hat Ceph Storage Break & Fix**, competion on the in-person Red Hat forum event at Madrid, September. I designed, coded and deployed a demo where a web R application, created for the demo, used data from Ceph which was broken and participants had to fix it. I was explaining them the challenge, guided them and explained to them the advantages of Ceph. There was a reward for the three fastest ones.
 - 🇬🇧 **Openstack Security: applying security standards (CIS)**, on the Red Hat Tech Exchange at Prague, September. I showed audience  the benefits of applying the CIS standard to Openstack and how I successfully implemented it in one of Red Hat's Telco customers.
-- 🇬🇧 **NFV roundtable** on the Red Hat Tech Exchange at Prague, September. I was invited to participate to share my experience during my engagement with one Red Hat's Telco customer.
-- 🇪🇸 **Your cloud, your rules**, [Masterclass at University of Valencia, April the 11th](https://www.uv.es/congressosdi/masterclass18/).
+- 🇬🇧,👪 **NFV roundtable** on the Red Hat Tech Exchange at Prague, September. I was invited to participate to share my experience during my engagement with one Red Hat's Telco customer.
+- 🇪🇸,👪 **Your cloud, your rules**, [Masterclass at University of Valencia, April the 11th](https://www.uv.es/congressosdi/masterclass18/).
 
 ## 2010
 
