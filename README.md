@@ -57,7 +57,7 @@ If you are interested in my activities in events you can check all of them [here
 - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/jadebustos/credentials/6d6b113bb6dc6430?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/38b703e8-3c82-47b0-9eeb-7a9b905facb7/linked_in_profile)
 - **IBM's Proventia Network Intrusion Prevention System**, 2008 (expired).
-- Many certifications on presales from Red Hat, VMware and Oracle.
+- Many presales certifications from **Red Hat**, **VMware** and **Oracle**.
 
 ## 📚 Courses
 
