@@ -72,5 +72,4 @@ If you are interested the training I have received you can check them [here](cou
 ## 📞 Contact
 
 | **Name**   | José Ángel de Bustos Pérez | 
-| **E-mail**   | <a href="mailto:jadebustos@gmail.com">jadebustos@gmail.com</a> | 
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/jadebustos/" target="_blank">Linkedin Profile</a> | 
