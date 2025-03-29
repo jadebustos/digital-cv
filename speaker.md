@@ -95,24 +95,25 @@ Legend:
 
 ## 2007
 
-- 🇪🇸 **FFree and Open Source scientific software**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**.
+- 🇪🇸 **Free and Open Source scientific software**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**.
 - 🇪🇸 **Clustering and high availability on GNU/Linux**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**.
 
 ## 2004
 
 ## 2003
 
-- 🇪🇸 **The Computer Algebra System (CAS) YACAS**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**.
-
-- 🇪🇸 **The scientific computing tool Yacas**, Extraordinary Course on GNU/Linux Tools for University Students of the University of Salamanca, from April 4th to 12th.
+- 🇪🇸 **The Computer Algebra System (CAS) YACAS**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**, from April 4th to 12th.
+- 🇪🇸 **Configuring SSL on the Apache web server**, workshop on the 3rd Free Software and GNU/Linux conferences organized by the Castilla y Leon and Salamanca's Linux User Groups at the University of Salamanca, April.
+- 🇪🇸 **Linux system administration**, workshop on the 3rd Free Software and GNU/Linux conferences organized by the Castilla y Leon and Salamanca's Linux User Groups at the University of Salamanca, April.
 
 ## 2002
 
 - 🇪🇸 **Criptography**, I was talking about Criptography on SIMO TCI on November in a serie of activities organized by Hispalinux (Spanish Linux User Group) at SIMO TCI. SIMO TCI was the biggest technologic event organized in Spain.
 - 🇪🇸 **Criptography**, 2nd Free Software and GNU/Linux conferences organized by the Salamanca's Linux User Group at the University of Salamanca.
+- 🇪🇸 **Using emacs**,  workshop on the 2nd Free Software and GNU/Linux conferences organized by the Salamanca's Linux User Group at the University of Salamanca.
 - 🇪🇸 **Introduction to GNU/Linux administration**, Lecture series on introduction to GNU/Linux and Free Software at the Faculty of Telecommunications of the University of Valladolid.
-- 🇪🇸 **Criptography**, 1st edition of The Free Software conferences organized by eitig at Segovia, July the 17th.
-- 🇪🇸 **Introduction to GNU/Linux administration**, 1st edition of The Free Software Conferences organized by eitig at Segovia, July the 17th.
+- 🇪🇸 **Criptography**, 1st edition of The Free Software conferences organized by EITIG at Segovia, July the 17th.
+- 🇪🇸 **Introduction to GNU/Linux administration**, 1st edition of The Free Software Conferences organized by EITIG at Segovia, July the 17th.
 
 ## 2001
 
