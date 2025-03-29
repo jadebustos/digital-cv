@@ -81,26 +81,26 @@ Legend:
 
 ## 2010
 
-- 🇪🇸 **Free and Open Source scientific software**, module for the University of Salamanca's 30-hours official course **Tools in GNU/Linux for University Students**.
+- 🇪🇸 **Free and Open Source scientific software**, module for the University of Salamanca's 30-hour official course **Tools in GNU/Linux for University Students**.
 
 ## 2009
 
 - 🇪🇸 **Firewall administration on GNU/Linux**, module for the University of Salamanca's 30-hours official course **Tools in GNU/Linux for University Students**.
-- 🇪🇸 **Clustering and high availability on GNU/Linux**, module for the University of Salamanca's 30-hours official course **Tools in GNU/Linux for University Students**.
+- 🇪🇸 **Clustering and high availability on GNU/Linux**, module for the University of Salamanca's 30-hour official course **Tools in GNU/Linux for University Students**.
 
 ## 2008
 
 - 🇪🇸 **Firewall administration on GNU/Linux**, module for the University of Salamanca's 30-hours official course **Tools in GNU/Linux for University Students**.
-- 🇪🇸 **Clustering and high availability on GNU/Linux**, module for the University of Salamanca's 30-hours official course **Tools in GNU/Linux for University Students**.
+- 🇪🇸 **Clustering and high availability on GNU/Linux**, module for the University of Salamanca's 30-hour official course **Tools in GNU/Linux for University Students**.
 
 ## 2007
 
 - 🇪🇸 **Free and Open Source scientific software**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**.
-- 🇪🇸 **Clustering and high availability on GNU/Linux**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**.
+- 🇪🇸 **Clustering and high availability on GNU/Linux**, module for the University of Salamanca's 30-hour course **Tools in GNU/Linux for University Students**.
 
 ## 2003
 
-- 🇪🇸 **The Computer Algebra System (CAS) YACAS**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**, from April 4th to 12th.
+- 🇪🇸 **The Computer Algebra System (CAS) YACAS**, module for the University of Salamanca's 30-hour course **Tools in GNU/Linux for University Students**, from April 4th to 12th.
 - 🇪🇸 **Configuring SSL on the Apache web server**, workshop on the 3rd Free Software and GNU/Linux conferences organized by the Castilla y Leon and Salamanca's Linux User Groups at the University of Salamanca, April.
 - 🇪🇸 **Linux system administration**, workshop on the 3rd Free Software and GNU/Linux conferences organized by the Castilla y Leon and Salamanca's Linux User Groups at the University of Salamanca, April.
 
