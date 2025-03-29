@@ -1,6 +1,6 @@
 # José Ángel de Bustos Pérez
 
-I have a long career in the IT industry with more than 20 years of experience, during which I have held various roles such as consultant, project manager, pre-sales engineer, as well as speaker and presenter at technology events. I am a strong advocate of Free and Open Source software and I have been actively involved for several years in local Linux User Groups (LUGs) in Spain, organizing events to promote Free Software.
+I have a long career in the IT industry with more than 20 years of experience, during which I have held various roles such as consultant, project manager, pre-sales engineer, as well as speaker and presenter at technology events. I am a strong advocate of Free and Open Source software and I was actively involved for several years in local Linux User Groups (LUGs) in Spain, organizing events to promote Free and Open Source Software.
 
 Regarding my academic background, although I originally earned a degree in Mathematics from the University of Salamanca, focusing my studies on numerical analysis, I have continued to read and educate myself independently, mainly in the field of artificial intelligence. Nearly 20 years after completing my degree, I obtained a master's degree in artificial intelligence. Just a year later, I decided to embark on a new and exciting journey by pursuing a master's in quantum computing. I have also collaborated as a lecturer in specialized programs at the [University of Salamanca](https://www.usal.es/) and the [International University of La Rioja](https://www.unir.net/).
 
