@@ -75,17 +75,34 @@ Legend:
 - 🇬🇧,👪 **NFV roundtable** on the Red Hat Tech Exchange at Prague, September. I was invited to participate to share my experience during my engagement with one Red Hat's Telco customer.
 - 🇪🇸,👪 **Your cloud, your rules**, [Masterclass at University of Valencia, April the 11th](https://www.uv.es/congressosdi/masterclass18/).
 
+## 2015
+
+- 🇪🇸 **Open Source as a professional career**, session on the University of Salamanca (Faculty of Science) about the use of Open Source in the corporate business. This session main goal was to highlight the Open Source technologies demanded within the IT industry, such as cloud computing, big data and analytics. This was in order for the university students consider to use such technologies in their final dissertation project, to complement their CV and to support them in looking for their first job. 
+
 ## 2010
+
+- 🇪🇸 **Free and Open Source scientific software**, module for the University of Salamanca's 30-hours official course **Tools in GNU/Linux for University Students**.
 
 ## 2009
 
+- 🇪🇸 **Firewall administration on GNU/Linux**, module for the University of Salamanca's 30-hours official course **Tools in GNU/Linux for University Students**.
+- 🇪🇸 **Clustering and high availability on GNU/Linux**, module for the University of Salamanca's 30-hours official course **Tools in GNU/Linux for University Students**.
+
 ## 2008
 
+- 🇪🇸 **Firewall administration on GNU/Linux**, module for the University of Salamanca's 30-hours official course **Tools in GNU/Linux for University Students**.
+- 🇪🇸 **Clustering and high availability on GNU/Linux**, module for the University of Salamanca's 30-hours official course **Tools in GNU/Linux for University Students**.
+
 ## 2007
+
+- 🇪🇸 **FFree and Open Source scientific software**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**.
+- 🇪🇸 **Clustering and high availability on GNU/Linux**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**.
 
 ## 2004
 
 ## 2003
+
+- 🇪🇸 **The Computer Algebra System (CAS) YACAS**, module for the University of Salamanca's 30-hours course **Tools in GNU/Linux for University Students**.
 
 - 🇪🇸 **The scientific computing tool Yacas**, Extraordinary Course on GNU/Linux Tools for University Students of the University of Salamanca, from April 4th to 12th.
 

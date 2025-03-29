@@ -4,7 +4,7 @@ I have a long career in the IT industry with more than 20 years of experience, d
 
 Regarding my academic background, although I originally earned a degree in Mathematics from the University of Salamanca, focusing my studies on numerical analysis, I have continued to read and educate myself independently, mainly in the field of artificial intelligence. Nearly 20 years after completing my degree, I obtained a master's degree in artificial intelligence. Just a year later, I decided to embark on a new and exciting journey by pursuing a master's in quantum computing. I have also collaborated as a lecturer in specialized programs at the [University of Salamanca](https://www.usal.es/) and the [International University of La Rioja](https://www.unir.net/).
 
-I enjoy learning and taking on new challenges, but I also believe in the importance of disconnecting. To do so, I like to spend time with family and friends, engaging in various hobbies. Some of my favorite activities include listening to music, walking in nature, cycling, playing golf, practicing precision shooting at a shooting range, as well as going on motorcycle and off-road adventures to find landscapes and wildlife to photograph.
+I enjoy learning and taking on new challenges, but I also believe in the importance of disconnecting. To do so, I like to spend time with family and friends, engaging in various hobbies. Some of my favorite activities include listening to music, walking in nature, cycling, playing golf, airsoft, practicing precision shooting at a shooting range, as well as going on motorcycle and off-road adventures to find landscapes and wildlife to photograph.
 
 ### _Current postion: Senior Specialist Solution Architect at Red Hat, based on Spain._
 
@@ -27,7 +27,7 @@ I enjoy learning and taking on new challenges, but I also believe in the importa
 - **EMC (Ampliatel)**: Senior Consultant, July 2011 - July 2014.
 - **Morse (now Logicalis)**: Senior Consultant/Project Leader, May 2006 - July 2011.
 - **IBM (INSA)**: Systems Engineer, August 2004 - May 2006.
-- **University of Salamanca**: Instructor in the special course _Tools in GNU/Linux for university students_. 2003, 2007, 2008, 2009 and 2010.
+- **University of Salamanca**: Instructor and co-organizer in the special course **Tools in GNU/Linux for University Students**. 2003, 2007, 2008, 2009 and 2010.
 - **Ciencia Exacta Academy**: Differential Geometry private tutor for students of the Physics Degree in the University of Salamanca, and for students in secondary education. 2003 - 2004.
 - **Eniac Academy**: Teaching Information Technology to Public Administration workers, unemployed and private sector workers. 2003 -2004.
 - **Private tutor**: _Scientific Programming in C_ for students of the <a href="https://www.upsa.es/" target="_blank">Pontifical University of Salamanca</a> and _C programming_ for students of the <a href="https://www.uned.es/" target="_blank">UNED</a>. 2001 - 2002.
@@ -55,6 +55,9 @@ If you are interested in my activities in events you can check all of them [here
 - 🇪🇸 **All for Science**, article published in the Spanish PC-Actual Magazine on December 2003. In this article I analyzed how open source tools can be used in scientific environments focusing mainly on mathematics and engineering solutions for [CAS](https://en.wikipedia.org/wiki/Computer_algebra_system), [Finite Elements](https://en.wikipedia.org/wiki/Finite_element_method) and [Neural Networks](https://en.wikipedia.org/wiki/Neural_network_(machine_learning)).
 
 ## 📌 Volunteering
+
+- AUGCyL (Castilla y Leon's LUG) president, 2004-2011.
+- AUGCyL (Castilla y Leon's LUG) vicepresident, 2003-2004.
 
 ## 🎯 Certifications
 
