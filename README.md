@@ -56,7 +56,7 @@ If you are interested in my activities in events you can check all of them [here
 
 ## 📌 Volunteering
 
-- Co-organizer in the University of Salamanca’s 30-hour course **Tools in GNU/Linux for University Students**. 2003, 2007, 2008, 2009 and 2010.
+- Co-organizer in the University of Salamanca’s 30-hour course **Tools in GNU/Linux for University Students** as my membership of the Castilla y Leon and Salamanca's Linux User Group. 2003, 2007, 2008, 2009 and 2010.
 - AUGCyL (Castilla y Leon's LUG) president, 2004-2011.
 - AUGCyL (Castilla y Leon's LUG) vicepresident, 2003-2004.
 
