@@ -1,5 +1,7 @@
 # Training
 
+These are a list of some of the courses I have attended. Self-paced trainings are not included.
+
 ## 2019
 
 - **Python for Data Science and AI & Development**, offered by IBM [through Coursera](https://coursera.org/verify/764LBKWPR2B9).
