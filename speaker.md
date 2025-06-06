@@ -30,7 +30,7 @@ Legend:
 - 🇪🇸,👪 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Madrid Opentour, March the 14th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1006431abcd&sc_cid=7015Y000003smDfQAI#speakers).
 - 🇪🇸,👪 **Adopt Artificial Intelligence Quickly with OpenShift AI** [demo at Red Hat's Barcelona Opentour, March the 12th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1011238abcd&sc_cid=7015Y000003smDzQAI#speakers).
 - 🇪🇸 **Migration from CentOS Linux to Red Hat Enterprise Linux** Arrow's webminar on March the 7th about migrating CentOS workloads to RHEL.
-- 🇬🇧 **Nutanix and Red Hat - CentOS to RHEL** [Nutanix's webminar, February the 29th](https://event.nutanix.com/nutanixandredhat/rh).
+- 🇬🇧,👪 **Nutanix and Red Hat - CentOS to RHEL** [Nutanix's webminar, February the 29th](https://event.nutanix.com/nutanixandredhat/rh).
 - 🇪🇸,👪 **Open Source Enterprise Solutions for AI/ML Application Development and Deployment with Intel® and Red Hat** [Red Hat's webminar, February the 8th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1002080abcd#page-table).
 - 🇬🇧,👪 **Desmitifying AI** at Red Hat One, Vienna January 30th and 31th. Together with a Red Hat's colleague from the BU.
 
