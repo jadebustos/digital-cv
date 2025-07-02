@@ -9,6 +9,8 @@ Legend:
 
 ## 2025
 
+- 🇬🇧,👪 **New from the Summit: Discover Red Hat Enterprise Linux 10**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1375411abcd">Tech Day Belgium (Brussels), June the 26th.</a> Introducing the audience RHEL 10.
+- 🇬🇧,👪 **RHEL workshops**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1375411abcd">Tech Day Belgium (Brussels), June the 26th.</a> Offering participants a menu of short self-guided labs: Lightspeed, Image Mode, RHEL 10, Podman in RHEL (Satellite and Insights).
 - 🇪🇸,👪 **RHEL 10: The Evolution of the OS in the Age of AI and Quantum Computing**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1419776abcd&sc_cid=RHCTE1250000443602#page-table">Innovate together: Solving IT challenges on Barcelona, June the 3rd.</a> Introducing audience the new version of Red Hat Enterprise Linux, RHEL 10.
 - 🇪🇸,👪 **TechTalks Breakfast Club: RHEL 10, a Quantum Open Source Leap Towards Innovation**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1425001abcd&sc_cid=RHCTE1250000445836#speakers">TechTalks Breakfast Club on Madrid, May the 29th.</a> We introduced the new version of Red Hat Enterprise Linux, RHEL 10, to customers at Madrid's Red Hat Office with demos about Lightspeed, Image Mode and Post-quantum cryptography algorithms.
 - 🇬🇧,👪 **From the Edge to the Datacenter, enhance your security at scale with OpenSCAP and Satellite + Insights**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1367735abcd&sc_cid=RHCTE1250000441293">Innovate together: Solving IT challenges on Lisbon, April the 10th.</a> Demo about managing RHEL security at scale with Red Hat Satellite and Red Hat Insights.
