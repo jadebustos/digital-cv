@@ -9,8 +9,6 @@ Legend:
 
 ## 2025
 
-Parent ID campaña: 701Kd000001V86UIAS.
-
 - 🇪🇸,👪 **RHEL 10: An Open Source quantum leap towards the innovation**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1475161abcd"> Immersion Days, Tech Talks for Indra, September the 23rd.</a> Introducing audience the new version of Red Hat Enterprise Linux, RHEL 10 and performing some demos.
 - 🇬🇧,👪 **New from the Summit: Discover Red Hat Enterprise Linux 10**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1375411abcd">Tech Day Belgium (Brussels), June the 26th.</a> Introducing the audience RHEL 10.
 - 🇬🇧,👪 **RHEL workshops**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1375411abcd">Tech Day Belgium (Brussels), June the 26th.</a> Offering participants a menu of short self-guided labs: Lightspeed, Image Mode, RHEL 10, Podman in RHEL (Satellite and Insights).
