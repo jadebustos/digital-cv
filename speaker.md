@@ -9,14 +9,6 @@ Legend:
 
 ## 2025
 
-## [September 26th] Immersion Days, Tech Talks para Indra - RHEL 10: Un salto cuántico Open Source hacia la innovación (Submitted to , 5Giveback)
-
-Together with Francisco Triviño (PQC and ZeroTrust), and Jorge Tudela (Certificate Lifecycle management with ACME and IdM) and myself (RHEL 10 introduction, Lightspeed and Image Mode demo):
-
-* [Event](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1475161abcd)
-* [Slides](https://docs.google.com/presentation/d/1KgkEhSrdehOmce64D0Do1Unk2WbosIBUlRi2TC0EBuA/edit?slide=id.ga089527607_0_0#slide=id.ga089527607_0_0)
-* [Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDc1bm9nNzZsMWZuc3BraDVjdW10ZjBtcjkgYWJ1c3Rvc3BAcmVkaGF0LmNvbQ&tmsrc=abustosp%40redhat.com)
-
 Parent ID campaña: 701Kd000001V86UIAS.
 
 - 🇪🇸,👪 **RHEL 10: An Open Source quantum leap towards the innovation**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1475161abcd"> Immersion Days, Tech Talks for Indra, September the 23rd.</a> Introducing audience the new version of Red Hat Enterprise Linux, RHEL 10 and performing some demos.
