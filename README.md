@@ -10,7 +10,7 @@ I enjoy learning and taking on new challenges, but I also believe in the importa
 
 ## 🎓 Education
 
-- **M.Sc. in Quantum Computing**, <a href="https://www.unir.net/" target="_blank">UNIR</a> (Planning to finish it in 2026).
+- **M.Sc. in Quantum Computing**, <a href="https://www.unir.net/" target="_blank">UNIR</a> All subjects passed, pending Master’s Thesis. Planning to finish it in 2026.
     - Master Thesis (WIP): Homomorphic encryption and quantum computing.
 - **M.Sc. in Artificial Intelligence**, <a href="https://www.unir.net/" target="_blank">UNIR</a> (December 2022).
     - Master Thesis: **Deep Learning and Edge Computing application to violence detection.** I built a prototype using a Raspberry pi 3b+, a webcam and the [Intel® Neural Compute Stick 2](https://www.intel.la/content/www/xl/es/products/sku/140109/intel-neural-compute-stick-2/specifications.html) to process video on real time to detect violence. I also built, trained and compared some model's performance based on ResNet50, InceptionV3, VGG16, VGG16, InceptionResNetV2 and Xception. 
