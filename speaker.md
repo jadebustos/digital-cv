@@ -9,6 +9,7 @@ Legend:
 
 ## 2025
 
+- 🇪🇸,👪 **Santander RHEL Day**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1564480abcd">at Madrid's Red Hat's Office</a>, November the 26th. Introducing the audience RHEL 10 and performing demos about Image Mode and RHEL Lightspeed.
 - 🇪🇸,👪 **RHEL 10, Un salto cuántico Open Source hacía la innovación**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1556025abcd&sc_cid=RHCTE125000046369">TechTalks Breakfast Club</a> at Barcelona's Red Hat's Office, November the 20th. Introducing the audience RHEL 10 and performing demos about Image Mode and RHEL Lightspeed.
 - 🇪🇸 **Empowering Students Through Open Source**, Open Source Masterclass for first-year Computer Engineering students at ESIC University in Pozuelo de Alarcon, October the 28th.
 - 🇪🇸,👪 **Entering the Post-Quantum Era with RHEL**, <a href="https://www.redhat.com/en/summit/connect/emea/madrid-2025">Red Hat Summit Connect, Madrid.</a> Introducing audience the new post-quantum cryptography capabilities in RHEL 10 and performing some demos.
