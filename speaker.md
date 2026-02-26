@@ -7,6 +7,10 @@ Legend:
 * A flag such 🇬🇧 or 🇪🇸 indicates the language.
 * 👪 indicates that the session was conducted by myself and one or more co-speakers.
 
+## 2026 
+
+- 🇪🇸,👪 **Zero-Trust on OpenShift**, <a href="https://www.cnis.es/sessions/taller-zero-trust-en-openshift-pilares-de-seguridad-en-entornos-de-contenedores-y-nube-hibrida/">at 16th National Congress on Innovation and Public Services</a>, February the 25th, Madrid. Introducing the audience Zero-Trust and how to implement a Zero-Trust architecture on OpenShift, illustrating it with a live demo.
+
 ## 2025
 
 - 🇪🇸,👪 **Santander RHEL Day**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1564480abcd">at Madrid's Red Hat's Office</a>, November the 26th. Introducing the audience RHEL 10 and performing demos about Image Mode and RHEL Lightspeed.
