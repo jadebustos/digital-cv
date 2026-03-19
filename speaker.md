@@ -9,7 +9,7 @@ Legend:
 
 ## 2026 
 
-- 🇬🇧,👪 **Top 10 security features for Zero Trust Architecture**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1375411abcd">https://www.redhat.com/en/events/webinar/top-10-security-features-for-zero-trust-in-redhat-enterprise-linux.</a> webminar about RHEL Zero-Trust architectures.
+- 🇬🇧,👪 **Top 10 security features for Zero Trust Architecture**, <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1375411abcd">webminar about RHEL Zero-Trust architectures</a>.
 - 🇪🇸 **Quantum Computing and Cryptography Masterclass**, <a href="https://www.fundacioudg.org/es/master-seguridad-informatica-entornos-operativos.html">Master of Lifelong Learning in Cybersecurity Applied to Industrial Environments</a>, March the 19th.
 - 🇪🇸,👪 **Zero-Trust on OpenShift**, <a href="https://www.cnis.es/sessions/taller-zero-trust-en-openshift-pilares-de-seguridad-en-entornos-de-contenedores-y-nube-hibrida/">at 16th National Congress on Innovation and Public Services</a>, February the 25th, Madrid. Introducing the audience Zero-Trust and how to implement a Zero-Trust architecture on OpenShift, illustrating it with a live demo.
 
