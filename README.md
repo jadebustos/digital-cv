@@ -80,10 +80,6 @@ If you are interested in my activities in events you can check all of them [here
 - **IBM's Proventia Network Intrusion Prevention System**, 2008 (expired).
 - Many presales certifications from **Red Hat**, **VMware** and **Oracle**.
 
-## 📚 Courses
-
-If you are interested the training I have received you can check them [here](courses.md).
-
 ## 💬 Languages
 
 - 🇪🇸 Native
