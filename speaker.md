@@ -9,6 +9,7 @@ Legend:
 
 ## 2026 
 
+- 🇬🇧,👪 **Security and access management simplified: Meet Red Hat Identity Management**, <a href="https://www.redhat.com/en/events/webinar/security-and-access-management-simplified-meet-red-hat-identity-management">webminar about security and IdM</a>, April the 22th.
 - 🇪🇸,👪 **Trust: the most overrated policy, verifying every bit in OpenShift**, <a href="https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000474471"> at Red Hat's Madrid Tech Day</a>, April the 9th, Madrid. Introducing the audience Zero-Trust and how to implement a Zero-Trust architecture on OpenShift and Intel technologies (Intel's TDX), illustrating it with live demos.
 - 🇪🇸,👪 **Trust is coming to an end! Zero Trust in RHEL!**, <a href="https://reg.experiences.redhat.com/flow/redhat/3380450/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000474471"> at Red Hat's Madrid Tech Day</a>, April the 9th, Madrid. Introducing the audience Zero-Trust and how to implement a Zero-Trust architecture on RHEL, illustrating it with live demos.
 - 🇬🇧,👪 **Top 10 security features for Zero Trust Architecture**, <a href="https://www.redhat.com/en/events/webinar/top-10-security-features-for-zero-trust-in-redhat-enterprise-linux">webminar about RHEL Zero-Trust architectures</a>, March the 19th.
