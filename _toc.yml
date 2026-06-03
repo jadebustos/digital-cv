@@ -5,3 +5,14 @@ format: jb-book
 root: intro
 chapters:
 - file: markdown
+- file: education
+- file: work-experience
+- file: speaker
+  sections:
+    - file: speaker-2026
+    - file: speaker-2025            
+    - file: speaker-2024           
+- file: publications
+- file: certifications
+- file: volunteering
+- file: languages
