@@ -8,6 +8,5 @@ I enjoy learning and taking on new challenges, but I also believe in the importa
 
 ## 📞 Contact
 
-| **Name**   | José Ángel de Bustos Pérez | 
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/jadebustos/" target="_blank">Linkedin Profile</a> |
+<a href="https://www.linkedin.com/in/jadebustos/" target="_blank">Linkedin Profile</a>
 
