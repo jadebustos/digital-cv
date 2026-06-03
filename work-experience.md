@@ -1,4 +1,4 @@
-# Work experience
+# 💼 Work experience
 
 My work experience is splitted in two parts:
 
