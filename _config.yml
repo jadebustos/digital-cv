@@ -4,7 +4,7 @@
 title: José Ángel's digital CV
 author: José Ángel de Bustos Pérez
 copyright: "2026"
-logo: logo.png
+logo: ""
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
