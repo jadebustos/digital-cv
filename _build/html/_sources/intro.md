@@ -6,17 +6,8 @@ Regarding my academic background, although I originally earned a degree in Mathe
 
 I enjoy learning and taking on new challenges, but I also believe in the importance of disconnecting. To do so, I like to spend time with family and friends, engaging in various hobbies. Some of my favorite activities include listening to music, walking in nature, cycling, playing golf, airsoft, practicing precision shooting at a shooting range, as well as going on motorcycle and off-road adventures to find landscapes and wildlife to photograph.
 
-### _Current postion: Senior Specialist Solution Architect at Red Hat, based on Spain._
-
 ## 📞 Contact
 
 | **Name**   | José Ángel de Bustos Pérez | 
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/jadebustos/" target="_blank">Linkedin Profile</a> | 
-
-
-## 🎤 Events activity
-
-If you are interested in my activities in events you can check all of them [here](speaker.md).
-
-
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/jadebustos/" target="_blank">Linkedin Profile</a> |
 
