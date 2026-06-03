@@ -1,3 +1,0 @@
-## 2015
-
-- 🇪🇸 **Open Source as a professional career**, session on the University of Salamanca (Faculty of Science) about the use of Open Source in the corporate business. This session main goal was to highlight the Open Source technologies demanded within the IT industry, such as cloud computing, big data and analytics. This was in order for the university students consider to use such technologies in their final dissertation project, to complement their CV and to support them in looking for their first job. 
