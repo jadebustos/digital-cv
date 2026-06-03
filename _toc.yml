@@ -11,7 +11,11 @@ chapters:
   sections:
     - file: speaker-2026
     - file: speaker-2025            
-    - file: speaker-2024           
+    - file: speaker-2024
+    - file: speaker-2023
+    - file: speaker-2022
+    - file: speaker-2021
+    - file: speaker-2020
 - file: publications
 - file: certifications
 - file: volunteering

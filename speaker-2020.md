@@ -1,0 +1,6 @@
+## 2020
+
+- 🇪🇸 **How to build a powerful MLOps platform with Red Hat OpenShift**, webminar for Hopla. November the 26th. I presented to the audience how you can build a MLOps platform wiht Red Hat OpenShift and OpenDataHub.
+- 🇬🇧 **How to build a powerful MLOps platform with Red Hat OpenShift**, [Syone's webminar](https://www.syone.com/events/webinars-how-to-build-a-powerful-mlops-platform-with-red-hat-openshift), July the 23th. I presented to the audience how you can build a MLOps platform wiht Red Hat OpenShift and OpenDataHub.
+- 🇪🇸,👪 **Modernizing Big Data workloads in your own Data Center**, session at in-person Arrow's TechSummit event Divergente at Madrid, March. We presented to the audience how Red Hat Ceph Storage can be used as a backend for Hadoop using Hadoop S3A.
+- 🇪🇸,👪 **Modernizing analytical and Big Data workloads in your own Data Center**, [session at in-person Red Hat Forum event at Madrid, January the 16th](https://events.redhat.com/profile/form/index.cfm?PKformID=0x67109abcd). We presented to the audience how Red Hat Ceph Storage can be used as a backend for Hadoop using Hadoop S3A.
