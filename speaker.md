@@ -1,4 +1,4 @@
-# José Ángel' events activities
+# Events activities
 
 These are the events in which I have participated as a speaker, those which I remember and I have been able to track. Red Hat's internal sessions are not included.
 
