@@ -7,6 +7,9 @@ chapters:
 - file: markdown
 - file: education
 - file: work-experience
+  sections:
+    - file: work-it
+    - file: work-academic
 - file: speaker
   sections:
     - file: speaker-2026
