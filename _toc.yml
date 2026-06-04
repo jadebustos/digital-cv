@@ -18,10 +18,7 @@ chapters:
     - file: speaker-2024
     - file: speaker-2023
     - file: speaker-2022
-    - file: speaker-2021
-    - file: speaker-2020
-    - file: speaker-2019
-    - file: speaker-2018
+    - file: speaker-2018-2021
     - file: speaker-2001-2015
 - file: publications
 - file: volunteering

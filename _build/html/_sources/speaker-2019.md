@@ -1,5 +1,0 @@
-## 2019
-
-- 🇬🇧,👪 **How Red Hat OCP can be used to run Machine Learning and other Scientific workloads** [laboratory on the Red Hat Tech Exchange at Vienna, September](https://github.com/jadebustos/ocp-science/tree/master/hands-on-lab-script). Attendees learnt how to deploy jupyter notebooks (on bare OCP without OpenDataHub), R shiny applications and how to use OCP to run computationally intensive applications (a multithreaded C application to get Pi digits according to user input using extended arithmetic libraries).
-- 🇬🇧,👪 **RHEL roundtable** on the Red Hat Tech Exchange at Vienna, September. I was invited to participate to share my experiences with the challeges we face with customers and how we can solve them with RHEL.
-- 🇬🇧,👪 **How Software Defined Storage can help to solve retail industry challenges**, on the Red Hat Summit at Boston, May. Together with some Red Hat colleages we showed the audience how we implemented an active-active and multisite Ceph cluster for one of out customers to solve the challenge customer had storing documents under high workloads.
