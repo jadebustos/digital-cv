@@ -6,5 +6,5 @@
 - VCloud Certified on version 5 (VCP License number 33542).
 - VMware Certified Professional on versions 3,4 and 5 (VCP License number 33542).
 - EMC's Information Storage Associate Version 2 (EMCISA), September 2013.
-- **IBM's Proventia Network Intrusion Prevention System**, 2008 (expired).
+- IBM's Proventia Network Intrusion Prevention System, 2008.
 - Many presales certifications from **Red Hat**, **VMware** and **Oracle**.
