@@ -10,6 +10,7 @@ chapters:
   sections:
     - file: work-it
     - file: work-academic
+- file: certifications   
 - file: speaker
   sections:
     - file: speaker-2026
@@ -23,6 +24,5 @@ chapters:
     - file: speaker-2018
     - file: speaker-2001-2015
 - file: publications
-- file: certifications
 - file: volunteering
 - file: languages
