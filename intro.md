@@ -1,4 +1,4 @@
-# :raising_hand: About myself
+# 🙋 About myself
 
 I have a long career in the IT industry with more than 20 years of experience, during which I have held various roles such as consultant, project manager, pre-sales engineer, as well as speaker and presenter at technology events. I am a strong advocate of Free and Open Source software and I was actively involved for several years in local Linux User Groups (LUGs) in Spain, organizing events to promote Free and Open Source Software.
 
