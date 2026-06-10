@@ -8,6 +8,6 @@ I enjoy learning and taking on new challenges, but I also believe in the importa
 
 ## 📞 Contact
 
-<a href="https://www.linkedin.com/in/jadebustos/" target="_blank">Linkedin Profile</a>
+<a href="https://www.linkedin.com/in/jadebustos/" target="_blank">Linkedin Profile</a><br>
 <a href="https://keyserver.ubuntu.com/pks/lookup?search=angel.debustos%40proton.me&fingerprint=on&op=index">Gpg Key</a>
 
