@@ -9,5 +9,5 @@ I enjoy learning and taking on new challenges, but I also believe in the importa
 ## 📞 Contact
 
 <a href="https://www.linkedin.com/in/jadebustos/" target="_blank">Linkedin Profile</a><br>
-<a href="https://keys.openpgp.org/search?q=angel.debustos%40proton.me">Gpg Key</a>
+<a href="https://keys.openpgp.org/search?q=angel.debustos%40proton.me">GPG Key</a>
 
