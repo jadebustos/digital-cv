@@ -1,5 +1,6 @@
 ## 📜 Publications
 
+- 🇬🇧 Cowriting a book about Galois Theory (WIP).
 - 🇬🇧 [Strengthening Spain's digital sovereignty: Red Hat Enterprise Linux achieves top-tier ENS security certification](https://www.redhat.com/en/blog/strengthening-spains-digital-sovereignty-red-hat-enterprise-linux-achieves-top-tier-ens-security-certification), March 2026.
 - 🇪🇸 [Strengthening Spain's digital sovereignty: Red Hat Enterprise Linux achieves top-tier ENS security certification](https://www.redhat.com/es/blog/reforzando-la-soberania-digital-de-espana-red-hat-enterprise-linux-alcanza-el-nivel-mas-alto-de-la-certificacion-de-seguridad-ens), March 2026.
 - 🇬🇧 [Automatic certificate issuing with IdM and cert-manager operator for OpenShift](https://developers.redhat.com/articles/2024/12/17/automatic-certificate-issuing-idm-and-cert-manager-operator-openshift#), December 2024.
