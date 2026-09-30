@@ -1,8 +1,9 @@
 ## 🏆 Accomplishments
 
+- **Red Hat Giveback Program: Green, Gray and Blue stars**, 2026.
 - **Red Hat Giveback Program: Green, Gray and Blue stars**, 2025.
 - **Red Hat's Technology Thought Leadership Accelerator (TTLA) graduate**, 2024.
-- **RHEL Specialist Solution Architect of the year**, Vienna's Red Hat One 2024. 
+- **RHEL Specialist Solution Architect of the year 2023**, Vienna's Red Hat One 2024. 
 - **Red Hat Giveback Program: Gold, Green, Gray and Blue stars**, 2024.
 - **Red Hat Giveback Program: Green, Gray and Blue stars**, 2023.
 - **Red Hat Giveback Program: Gold, Green, Gray and Blue stars**, 2022.
