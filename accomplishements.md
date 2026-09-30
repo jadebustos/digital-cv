@@ -1,12 +1,13 @@
 ## 🏆 Accomplishments
 
-- **Red Hat Giveback Program: Green, Gray and Blue stars**, 2026.
-- **Red Hat Giveback Program: Green, Gray and Blue stars**, 2025.
+- **Red Hat Giveback Program:**
+  - **2026: Green, Gray and Blue stars.**
+  - **2025: Green, Gray and Blue stars.**
+  - **2024: Gold, Green, Gray and Blue stars.**
+  - **2023: Green, Gray and Blue stars.**
+  - **2022: Gold, Green, Gray and Blue stars.**
 - **Red Hat's Technology Thought Leadership Accelerator (TTLA) graduate**, 2024.
 - **RHEL Specialist Solution Architect of the year 2023**, Vienna's Red Hat One 2024. 
-- **Red Hat Giveback Program: Gold, Green, Gray and Blue stars**, 2024.
-- **Red Hat Giveback Program: Green, Gray and Blue stars**, 2023.
-- **Red Hat Giveback Program: Gold, Green, Gray and Blue stars**, 2022.
 - **CSAT perfect 10**, perfect score given for one Red Hat's customer for my performance in a project deploying OpenStack to deploy big data workloads for a Red Hat's Telco customer. January 2020.
 - **CSAT perfect 10**, perfect score given for one Red Hat's customer for my performance in a project updating its Red Hat Identity Manager platform for a Red Hat's payment services provider customer. December 2018.
 - **CSAT perfect 10**, perfect score given for one Red Hat's customer for my performance in a project deploying OpenStack to deploy big data workloads for a Red Hat's Telco customer. September 2018.
