@@ -1,6 +1,6 @@
 ## 2026 
 
-- 🇪🇸,👪 **Deploying a digital fortress: do not trust, always verify and encrypt your data***, <a href="https://www.redhat.com/es/events/webinar/deploying-a-digital-fortress-dont-trust-always-verify-and-encrypt-your-data?sc_cid=RHCTE1260000496122">RHEL Tech Journey Series webminar about Confidential Computing and Remote Attestation</a>, October the 23th.
+- 🇪🇸,👪 **Deploying a digital fortress: do not trust, always verify and encrypt your data***, <a href="https://www.redhat.com/es/events/webinar/deploying-a-digital-fortress-dont-trust-always-verify-and-encrypt-your-data?sc_cid=RHCTE1260000496122">RHEL Tech Journey Series webminar</a> about Confidential Computing and Remote Attestation, October the 23th.
 - 🇪🇸 **Empowering Students Through Open Source**, Open Source Masterclass for first-year Computer Engineering students at <a href="https://www.esic.edu/">ESIC University</a> in Pozuelo de Alarcon, October the 9th.
 - 🇪🇸,👪 **Agentic AI on RHEL: Enterprise Security, from detecting CVEs to automated remediations**, <a href="https://www.redhat.com/en/summit/connect/emea/madrid-2026#agenda">Red Hat Summit Connect 2026, Madrid</a>, September the 23th.
 - 🇪🇸,👪 **Your encryption has an expiration date. Are you ready for the post-quantum era?**, <a href="https://www.redhatiberia.es/MAILINGS/2026/ExecutiveTelcoDayEspa%C3%B1a/AGENDA.pdf">Executive Telco Day, Spain</a>, September the 17th.
